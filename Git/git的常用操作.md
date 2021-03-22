@@ -1,6 +1,6 @@
 git三种状态的转换
 
-![git三种状态切换](新建 Markdown.assets/git三种状态切换.png)
+![git三种状态切换](https://github.com/KX-Lau/Blogs/blob/main/Git/git%E4%B8%89%E7%A7%8D%E7%8A%B6%E6%80%81%E5%88%87%E6%8D%A2.png)
 
 git状态切换时的常用命令
 
