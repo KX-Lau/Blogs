@@ -1,0 +1,5 @@
+2020-11-23 14:24:56,579 logging模块.py[line:64] DEBUG: debug
+2020-11-23 14:24:56,579 logging模块.py[line:65] INFO: info
+2020-11-23 14:24:56,580 logging模块.py[line:66] WARNING: warning
+2020-11-23 14:24:56,580 logging模块.py[line:67] ERROR: error
+2020-11-23 14:24:56,580 logging模块.py[line:68] CRITICAL: critical
